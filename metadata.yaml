@@ -1,0 +1,27 @@
+_repo: When-the-Yule-Log-BurnsA-Christmas-Story_17510
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17510-h/images/cover-new.jpg
+creator:
+  author:
+    agent_name: Dalrymple, Leona
+    alias: Dalrymple, C. Leona
+    birthdate: 1884
+    gutenberg_agent_id: '6328'
+    url: http://www.gutenberg.org/2009/agents/6328
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+title: 'When the Yule Log Burns: A Christmas Story'
+url: http://www.gutenberg.org/ebooks/17510
